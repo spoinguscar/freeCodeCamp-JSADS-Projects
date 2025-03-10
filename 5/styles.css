@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  #sprite {
+    width: 150px;
+    height: 150px;
+  }
+  .pokemon-info {
+    margin: 20px;
+  }
+  #types {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  div {
+    display: inline-block;
+  }
